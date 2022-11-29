@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Mon Jan 27 17:16:30 2020
+# Process ID: 4604
+# Current directory: C:/Users/Zach/Desktop/Work/School/Digital Electronics/VHDL/project_1/project_1.runs/synth_1
+# Command line: vivado.exe -log top_hello_LED.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top_hello_LED.tcl
+# Log file: C:/Users/Zach/Desktop/Work/School/Digital Electronics/VHDL/project_1/project_1.runs/synth_1/top_hello_LED.vds
+# Journal file: C:/Users/Zach/Desktop/Work/School/Digital Electronics/VHDL/project_1/project_1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source top_hello_LED.tcl -notrace

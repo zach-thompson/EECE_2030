@@ -1,0 +1,17 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto c7970986f22b4b518033b96b1a81af59 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot tb_top_rg_LED_behav xil_defaultlib.tb_top_rg_LED -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling architecture behavioral of entity xil_defaultlib.r_LED [r_led_default]
+Compiling architecture behavioral of entity xil_defaultlib.g_LED [g_led_default]
+Compiling architecture behavioral of entity xil_defaultlib.top_rg_LED [top_rg_led_default]
+Compiling architecture behavioral of entity xil_defaultlib.tb_top_rg_led
+Built simulation snapshot tb_top_rg_LED_behav

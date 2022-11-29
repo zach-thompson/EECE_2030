@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../project_3b.srcs/sources_1/new/displayASCII.vhd" \
+"../../../../project_3b.srcs/sources_1/new/top_displayASCII.vhd" \
+"../../../../project_3b.srcs/sim_1/new/tb_top_displayASCII.vhd" \
+
+# Do not sort compile order
+nosort
